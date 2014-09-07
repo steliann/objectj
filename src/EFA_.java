@@ -12,7 +12,7 @@ import ij.util.*;
  * Elliptical fourier descriptors according to Kuhl&Giardina 1982
  * by Norbert Vischer ++++++
  * 
- * 
+ * Test change
  */
 public class EFA_ implements PlugInFilter {
 
